@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+.venv/
+.vision-ai
+env/
+ENV/
+
+# Environment variables (VERY IMPORTANT)
+.env
+
+# Google credentials (IMPORTANT - never commit keys)
+credentials/
+*.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / cache
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# FastAPI / local dev artifacts
+*.sqlite3
+
+# Jupyter (if you ever use notebooks)
+.ipynb_checkpoints/
