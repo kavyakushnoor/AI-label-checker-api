@@ -38,13 +38,10 @@ Core workflow:
 ├── validator.py            # Validation engine
 ├── vision_client.py        # Google Vision client wrapper
 ├── load.py                 # Data/rule loading utilities
-├── rules/                  # Validation rules
 ├── credentials/           # Cloud credentials (do not commit secrets)
-├── images/                # Sample/test images
 ├── test.py                # Testing utilities
 ├── requirements.txt
 ├── Dockerfile
-└── allfiles.txt
 ```
 
 ---
