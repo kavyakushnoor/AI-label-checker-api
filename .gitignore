@@ -43,7 +43,7 @@ temp/
 *.tmp
 images/
 allfiles.txt
-rules
+rules/
 
 # FastAPI / local dev artifacts
 *.sqlite3
