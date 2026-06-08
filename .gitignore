@@ -41,6 +41,7 @@ Thumbs.db
 tmp/
 temp/
 *.tmp
+images/
 
 # FastAPI / local dev artifacts
 *.sqlite3
